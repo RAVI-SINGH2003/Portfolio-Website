@@ -5,7 +5,7 @@
   flex-wrap: wrap;
   align-items: flex-start;
   background-color: lavender;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .skills .skills-image-container img {
@@ -57,7 +57,5 @@
   .skills-container img {
     width: 60px;
   }
-  .languages {
-    margin-top: -120px;
-  }
+
 }
