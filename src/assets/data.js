@@ -13,74 +13,74 @@ import chakrapng from "../images/chakrapng.png";
 import reduxpng from "../images/reduxpng.png";
 import bootstrappng from "../images/bootstrappng.png";
 import tailwindcsspng from "../images/tailwindcsspng.png";
-import courseverse from  "../images/courseverse.png"
-import chatzoid from  "../images/chatzoid.png";
-import shopgenix from  "../images/shopgenix.png";
+import courseverse from "../images/courseverse.png";
+import chatzoid from "../images/chatzoid.png";
+import shopgenix from "../images/shopgenix.png";
 
- export const languages = [
-   {
-     name: "html",
-     image: htmlpng,
-   },
-   {
-     name: "css",
-     image: csspng,
-   },
-   {
-     name: "javascript",
-     image: javascriptpng,
-   },
-   {
-     name: "sass",
-     image: sasspng,
-   },
-   {
-     name: "cpp",
-     image: cpppng,
-   },
-   {
-     name: "java",
-     image: javapng,
-   },
-   {
-     name: "python",
-     image: pythonpng,
-   },
- ];
- export const technologies = [
-   {
-     name: "tailwindcss",
-     image: tailwindcsspng,
-   },
-   {
-     name: "bootstrap",
-     image: bootstrappng,
-   },
-   {
-     name: "react",
-     image: reactpng,
-   },
-   {
-     name: "mongodb",
-     image: mongodbpng,
-   },
-   {
-     name: "redux",
-     image: reduxpng,
-   },
-   {
-     name: "nodejs",
-     image: nodejspng,
-   },
-   {
-     name: "expressjs",
-     image: expressjspng,
-   },
-   {
-     name: "chakraui",
-     image: chakrapng,
-   },
- ];
+export const languages = [
+  {
+    name: "html",
+    image: htmlpng,
+  },
+  {
+    name: "css",
+    image: csspng,
+  },
+  {
+    name: "javascript",
+    image: javascriptpng,
+  },
+  {
+    name: "sass",
+    image: sasspng,
+  },
+  {
+    name: "cpp",
+    image: cpppng,
+  },
+  {
+    name: "java",
+    image: javapng,
+  },
+  {
+    name: "python",
+    image: pythonpng,
+  },
+];
+export const technologies = [
+  {
+    name: "tailwindcss",
+    image: tailwindcsspng,
+  },
+  {
+    name: "bootstrap",
+    image: bootstrappng,
+  },
+  {
+    name: "react",
+    image: reactpng,
+  },
+  {
+    name: "mongodb",
+    image: mongodbpng,
+  },
+  {
+    name: "redux",
+    image: reduxpng,
+  },
+  {
+    name: "nodejs",
+    image: nodejspng,
+  },
+  {
+    name: "expressjs",
+    image: expressjspng,
+  },
+  {
+    name: "chakraui",
+    image: chakrapng,
+  },
+];
 export const projects = [
   {
     image: courseverse,
@@ -113,7 +113,9 @@ export const projects = [
   },
 ];
 
-export const resumeViewLink = "https://drive.google.com/file/d/1I8gfy7LNzxcas7X73yYob5eICzuS2Cxk/view?usp=share_link";
-export const resumeDownloadLink ="https://drive.google.com/uc?export=download&id=1I8gfy7LNzxcas7X73yYob5eICzuS2Cxk";
+export const resumeViewLink =
+  "https://drive.google.com/file/d/1I8gfy7LNzxcas7X73yYob5eICzuS2Cxk/view?usp=share_link";
+export const resumeDownloadLink =
+  "https://drive.google.com/uc?export=download&id=1I8gfy7LNzxcas7X73yYob5eICzuS2Cxk";
 export const contactFormActionLink =
-  "https://script.google.com/macros/s/AKfycbzx2sDw1zzAl72HCZps9RGAEgFdtk4rT5CM3evAcmIcGF6lMioUAZuQcM8NlNwKDaXLVg/exec";
+  "https://script.google.com/macros/s/AKfycbzBRSCWMDihxkMR71cFNrnszEy4iDNGi6JjALYPTRZ2HkAOUD085VNTVY15G_dH9lkL9w/exec";
