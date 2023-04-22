@@ -54,8 +54,9 @@
   cursor: pointer;
 }
 
-.contact-image-container img {
-  object-fit: contain;
+
+.contact-image-container img{
+  width: 200px;
 }
 .contact-form {
   background-color: rgba(128, 0, 128, 0.211);
@@ -93,7 +94,7 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 1450px) {
+@media screen and (max-width: 1270px) {
   .contact-image-container {
     display: none;
   }
