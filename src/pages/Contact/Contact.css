@@ -1,0 +1,120 @@
+.contact-main-heading {
+  background: lavender;
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 2rem;
+  color: rgb(74, 74, 74);
+}
+
+.contact {
+  background: lavender;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 2rem;
+  min-height: 76vh;
+}
+.contact-details-box {
+  background: rgb(158, 241, 158);
+  border-radius: 0 0 0 50%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 500px;
+  padding: 0rem 0rem 2rem 5rem;
+  flex: 1 1 50%;
+}
+
+.contact-links-container {
+  color: rgb(63, 62, 62);
+}
+.contact-link {
+  display: flex;
+  margin-bottom: 1rem;
+}
+.contact-link-detail h2 {
+  margin-bottom: 5px;
+  font-size: 1.6rem;
+}
+.contact-link-detail p {
+  margin-bottom: 5px;
+  font-size: 1.2rem;
+}
+.contact-link-detail a {
+  color: black;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 1.1rem;
+}
+.contact-link svg {
+  margin-right: 1rem;
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+.contact-image-container img {
+  object-fit: contain;
+}
+.contact-form {
+  background-color: rgba(128, 0, 128, 0.211);
+  flex: 1 1 50%;
+  padding: 2rem;
+  min-height: 500px;
+  border-radius: 0 0 50% 0;
+}
+.contact-form .contact-field {
+  margin-top: 1rem;
+}
+.contact-form label {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+.contact-form input,
+.contact-form textarea {
+  display: block;
+  width: 80%;
+  padding: 10px;
+  font-size: 1rem;
+  outline: none;
+  resize: none;
+}
+.contact-form button {
+  margin-top: 1rem;
+  padding: 10px;
+  font-size: 1rem;
+  width: 100px;
+  background: #524f4f9f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1450px) {
+  .contact-image-container {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .contact-details-box {
+    min-height: auto;
+    border-radius: 0;
+    padding: 2rem 0rem 2rem 5rem;
+  }
+
+  .contact-link svg {
+    font-size: 2.2rem;
+  }
+  .contact-form {
+    margin-top: 1rem;
+    min-height: auto;
+    border-radius: 0;
+  }
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+  }
+}
