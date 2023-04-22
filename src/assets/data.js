@@ -118,4 +118,4 @@ export const resumeViewLink =
 export const resumeDownloadLink =
   "https://drive.google.com/uc?export=download&id=1I8gfy7LNzxcas7X73yYob5eICzuS2Cxk";
 export const contactFormActionLink =
-  "https://script.google.com/macros/s/AKfycbzBRSCWMDihxkMR71cFNrnszEy4iDNGi6JjALYPTRZ2HkAOUD085VNTVY15G_dH9lkL9w/exec";
+  "https://script.google.com/macros/s/AKfycbzlFPtSXGo5XgACRNcMtt5B-UqGrROE94KCxbJGjxvdEDTt6Y-SDGSdKRRN4U5Nco7r8g/exec";
