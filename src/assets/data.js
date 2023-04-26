@@ -88,8 +88,7 @@ export const projects = [
     mainLine: "A Subscription based E-Learning Platform",
     description:
       "CourseVerse is a Subscription based E-learning Platform made with MERN Stack where user can subscribe through razorpay payment to get access to many courses available on the platform.User can then access lectures of a particular course . Admin can create a new course , add lectures etc and access Dashoard etc.",
-    codeLink:
-      "https://github.com/RAVI-SINGH2003/CourseVerse___previously-Course-Bundler-",
+    codeLink: "https://github.com/RAVI-SINGH2003/CourseVerse",
     liveLink: "https://courseverse.vercel.app",
   },
   {
