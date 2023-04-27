@@ -97,8 +97,7 @@ export const projects = [
     mainLine: "A One-One and Group-Chat Application",
     description:
       "It's a real time chat application made with socket.io and MERN stack. A User can register , login , search a user , do one-one chat or group-chat with other users. Admin in a group chat can rename a group chat , add members and can also delete members from a group chat.",
-    codeLink:
-      "https://github.com/RAVI-SINGH2003/Chat-Zoid___previously-chitchat",
+    codeLink: "https://github.com/RAVI-SINGH2003/chitchat",
     liveLink: "https://mern-chat-app01.vercel.app",
   },
   {
