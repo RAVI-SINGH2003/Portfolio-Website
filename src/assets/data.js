@@ -112,8 +112,8 @@ export const projects = [
 ];
 
 export const resumeViewLink =
-  "https://drive.google.com/file/d/1M0uBDZHz2PZDP33pwK2LgOqdRiLMnqSx/view?usp=share_link";
+  "https://drive.google.com/file/d/1LXBlXscuM3xuwtneRPLuRH8UKJv8U_m9/view?usp=sharing";
 export const resumeDownloadLink =
   "https://drive.google.com/uc?export=download&id=1M0uBDZHz2PZDP33pwK2LgOqdRiLMnqSx";
 export const contactFormActionLink =
-  "https://script.google.com/macros/s/AKfycbzlFPtSXGo5XgACRNcMtt5B-UqGrROE94KCxbJGjxvdEDTt6Y-SDGSdKRRN4U5Nco7r8g/exec";
+  "https://drive.google.com/uc?export=download&id=1LXBlXscuM3xuwtneRPLuRH8UKJv8U_m9";
